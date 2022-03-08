@@ -25,5 +25,8 @@
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 
+&exclude_repo=plasmoxy.github.io,Plasmoxy,opencv-java-tutorials,javalin,javafxopencv-started,ionic-react-detail-tab,InsanelyCheapElectronics,Hivemind,heroku-maggit,hello-world,DevMemories,denvs2018,arshiamidos,AIChamber,AestheticIndexer,Cataclysm,TheMachine![Overall Stats](https://github-readme-stats.vercel.app/api?username=romanpalenik&count_private=true&show_icons=true&hide=contribs&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romanpalenik&hide=HTML,CSS,TeX,Makefile&layout=compact&theme=tokyonight&langs_count=10&exclude_repo=plasmoxy.github.io,Plasmoxy,opencv-java-tutorials,javalin,javafxopencv-started,ionic-react-detail-tab,InsanelyCheapElectronics,Hivemind,heroku-maggit,hello-world,DevMemories,denvs2018,arshiamidos,AIChamber,AestheticIndexer,Cataclysm,TheMachine)
+
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=mateju25&count_private=true&show_icons=true&hide=contribs&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateju25&layout=compact&theme=tokyonight&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateju25&hide=HTML,CSS,Jupyter%20Notebook&layout=compact&theme=tokyonight&langs_count=10)
