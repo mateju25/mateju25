@@ -27,4 +27,4 @@
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=mateju25&count_private=true&show_icons=true&hide=issues,contribs&theme=tokyonight)
 <br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateju25&hide=HTML,CSS,Jupyter%20Notebook,C,c%2B%2B&layout=compact&theme=tokyonight&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateju25&count_private=truehide=HTML,CSS,Jupyter%20Notebook,C,c%2B%2B&layout=compact&theme=tokyonight&langs_count=10)
