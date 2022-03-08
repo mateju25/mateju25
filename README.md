@@ -1,12 +1,12 @@
 ### Hi there 👋, I am Matej Delinčák
 
-## I am a passionate Junior Java Developer with a demonstrated history of working in the information technology and services industry. Skilled in Java, Python, English. Currently studying Informatics from Faculty of Informatics and Information Technologies, Slovak University of Technology and working for Coderama s.r.o as Junior Java Developer where I develop intern project. It is a web application which focus on managing proper operation of company. But my journey started as manual tester in Simcon where I tested an application that provides simulation of train and car traffic in various real world scenarios.
+# I am a passionate Junior Java Developer with a demonstrated history of working in the information technology and services industry. Skilled in Java, Python, English. Currently studying Informatics from Faculty of Informatics and Information Technologies, Slovak University of Technology and working for Coderama s.r.o as Junior Java Developer where I develop intern project. It is a web application which focus on managing proper operation of company. But my journey started as manual tester in Simcon where I tested an application that provides simulation of train and car traffic in various real world scenarios.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mateju25&label=Profile%20views&color=0e75b6&style=flat" alt="mateju25" /> </p>
 
-- 📫 How to reach me **matej.delincak@gmail.com**
 
-<h3 align="left">Or connect with me:</h3>
+<h3 align="left">How to reach me **matej.delincak@gmail.com**</h3>
+
 <p align="left">
 <a href="https://www.linkedin.com/in/matej-delincak-093746206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matej-delincak-0247a919b" height="30" width="40" /></a>
 <a href="https://fb.com/matej.delincak.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="matej.delincak.9" height="30" width="40" /></a>
