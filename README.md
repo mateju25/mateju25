@@ -4,7 +4,7 @@ I am a passionate Junior Java Developer with a demonstrated history of working i
 
 
 
-<h3 align="left">How to reach me **matej.delincak@gmail.com**</h3>
+### How to reach me **matej.delincak@gmail.com**
 
 <p align="left">
 <a href="https://www.linkedin.com/in/matej-delincak-093746206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matej-delincak-0247a919b" height="30" width="40" /></a>
