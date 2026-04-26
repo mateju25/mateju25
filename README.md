@@ -1,10 +1,9 @@
 ### Hi there 👋, I am Matej Delinčák
 
-I am a passionate Junior Java Developer with a demonstrated history of working in the information technology and services industry. Skilled in Java, Python, English. Currently studying Informatics from Faculty of Informatics and Information Technologies, Slovak University of Technology and working for Coderama s.r.o as Junior Java Developer where I develop intern project. It is a web application which focus on managing proper operation of company. But my journey started as manual tester in Simcon where I tested an application that provides simulation of train and car traffic in various real world scenarios.
+I am an experienced Java developer with more than 4 years of experience in commercial software development. During his career at Coderama s.r.o. I went from a junior developer to the role of Team Lead and I am currently working on the development of backend solutions and microservices for domestic and foreign clients.
 
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=mateju25&count_private=true&show_icons=true&hide=issues,contribs&theme=tokyonight)
-<br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateju25&count_private=true&hide=HTML,CSS,Jupyter%20Notebook,C,c%2B%2B&layout=compact&theme=tokyonight&langs_count=10)
-<br />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mateju25&label=Profile%20views&color=0e75b6&style=flat" alt="mateju25" /> </p>
+I specialize in Java backend with an emphasis on JEE, Spring Boot and PostgreSQL. As part of projects for DXC Technology, I also work with technologies such as Camunda, AMQ and WSDL. My technical background is complemented by the Oracle Certified Professional Java SE 11 certification and an interest in modern approaches to development, including AI-assisted development.
 
+I studied informatics at the Faculty of Informatics and Information Technologies of the STU in Bratislava, where I completed both degrees with honors — a bachelor's degree with a Magna Cum Laude degree (1st place in the year) and an engineering degree with a Cum Laude degree.
+
+In my free time, I enjoy climbing and running.
